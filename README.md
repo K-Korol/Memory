@@ -1,5 +1,15 @@
 # Memory
 
+<b>Snapshoots</b>
+
+<img src="src/main/resources/pics/intro.jpg" alt="Intro">
+
+<img src="src/main/resources/pics/game_1.jpg" alt="Game">
+
+<img src="src/main/resources/pics/game_2.jpg" alt="Game">
+
+
+
 <p>v03:<br>
 [intro and music disabled]</p>
 <ul>
